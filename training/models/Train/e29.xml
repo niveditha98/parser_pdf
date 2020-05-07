@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>e29.jpg</filename>
+	<path>C:\Users\Admin\AppData\Local\Programs\Python\Python36\Lib\site-packages\Train\e29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>495</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>296</ymin>
+			<xmax>476</xmax>
+			<ymax>589</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>site-packages</folder>
+	<filename>Doc3.pdfpage_1.jpg</filename>
+	<path>C:\Users\Admin\AppData\Local\Programs\Python\Python36\Lib\site-packages\Doc3.pdfpage_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4137</width>
+		<height>5848</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>761</ymin>
+			<xmax>3584</xmax>
+			<ymax>4280</ymax>
+		</bndbox>
+	</object>
+</annotation>
